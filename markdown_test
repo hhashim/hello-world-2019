@@ -16,3 +16,6 @@ This is testing **Bold** *Italic* ~~Strikethrough~~ and **Bold sentence with __i
 ## 3. Quoting Text
 
 testing this again. and sending it to commit
+
+ahhh.... I see why it is not showing the markdown format. This file is not a .md file
+This is just a simple flat file with no extension name
