@@ -47,4 +47,11 @@ function test(){
  puts markdown.to_html
  ```
  ## 4. Links
+ I can create an inline link by wrapping link text in brackets ` [] `, and then wrapping the URL in parantheses ` () `. You can also use the keyboard shortcut ` command + k ` to create a link. 
  
+`This site was built using [Github Pages] (https://pages.github.com/)`
+This site was built using [Github Pages] (https://pages.github.com/)
+
+###4.1 Section links
+You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
+
