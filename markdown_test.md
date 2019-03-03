@@ -29,7 +29,7 @@ git commit
 ## 3.1 Creating and highlighting code blocks
 **Share samples of code with fenced code blocks and enable syntax highlighting**
 ### Fenced code blocks ###
-Create it by placing triple backticks `\```\` before and after the code block.
+Create it by placing triple backticks ` ``` ` before and after the code block.
 
 ```
 function test(){
